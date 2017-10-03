@@ -1,0 +1,19 @@
+Body {
+    background-color: salmon
+}
+
+h1 {
+    color: seashell;
+    text-align: center;
+}
+
+.friends {
+    background-color: #AFE7AF;
+    color: #2B2BFF;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold
+}
+
+
